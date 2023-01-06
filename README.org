@@ -1,0 +1,2 @@
+cargo pio new --board hifive1-revb --target riscv32imac-unknown-none-elf demo-redv-rust/
+rustup target add riscv32imac-unknown-none-elf
