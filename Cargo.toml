@@ -1,11 +1,11 @@
 [package]
-name = "demo-redv-rust"
+name = "demo-riscv-rust-pio"
 edition = "2021"
 version = "0.1.0"
 
 [lib]
 path = "src/lib.rs"
-name = "demo_redv_rust"
+name = "demo_riscv_rust_pio"
 edition = "2021"
 crate-type = ["staticlib"]
 required-features = []
